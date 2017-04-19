@@ -1,7 +1,9 @@
 # Quiz
 A javascript application, made in ReactJS
 
-Open cmd, then go into the root folder.
+First you need to install NodeJS, babel and webpack, then:
+
+Open cmd, go into the root folder.
 Type in npm start!
 
 Open your browser, then type in http://localhost:8080/
